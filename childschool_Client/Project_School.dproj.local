@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/01/24 01:03:47.000.532,=C:\Users\limseokjin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/01/24 19:03:44.000.096,=C:\Users\limseokjin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/01/24 19:04:03.000.381,=C:\Users\limseokjin\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2016/01/24 19:05:30.000.310,C:\Users\limseokjin\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Project_childschool\childschool_Client\UMain_Form.pas</Transaction>
+    <Transaction>2016/01/24 19:05:30.000.310,C:\Users\limseokjin\Documents\Embarcadero\Studio\Projects\Unit2.fmx=C:\Project_childschool\childschool_Client\UMain_Form.fmx</Transaction>
+    <Transaction>2016/01/24 19:05:38.000.848,C:\Users\limseokjin\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Project_childschool\childschool_Client\Project_School.dproj</Transaction>
+    <Transaction>2016/01/24 21:09:45.000.041,=C:\Project_childschool\childschool_Client\Unit1.pas</Transaction>
+    <Transaction>2016/01/24 21:17:57.000.114,C:\Project_childschool\childschool_Client\Unit1.pas=C:\Project_childschool\childschool_Client\UDM.pas</Transaction>
+    <Transaction>2016/01/24 21:17:57.000.114,C:\Project_childschool\childschool_Client\Unit1.dfm=C:\Project_childschool\childschool_Client\UDM.dfm</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<PMyMac iOSSimulator="iPhone5"/>
+		<NoProfile Android="06157df66ccf4b3d"/>
+	</ActiveMobileDevice>
+</BorlandProject>

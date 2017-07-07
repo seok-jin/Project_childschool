@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/01/24 01:03:47.000.532,=C:\Users\limseokjin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/01/24 14:03:39.000.415,=C:\Users\limseokjin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/01/24 14:03:40.000.183,=C:\Users\limseokjin\Documents\Embarcadero\Studio\Projects\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2016/01/24 14:03:41.000.229,=C:\Users\limseokjin\Documents\Embarcadero\Studio\Projects\ServerContainerUnit1.pas</Transaction>
+    <Transaction>2016/01/24 14:07:23.000.053,C:\Project_childschool\childschool_Server\ServerMethodsUnit1.pas=C:\Users\limseokjin\Documents\Embarcadero\Studio\Projects\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2016/01/24 14:07:23.000.053,C:\Project_childschool\childschool_Server\ServerMethodsUnit1.dfm=C:\Users\limseokjin\Documents\Embarcadero\Studio\Projects\ServerMethodsUnit1.dfm</Transaction>
+    <Transaction>2016/01/24 14:07:59.000.659,C:\Project_childschool\childschool_Server\UMain_Server.pas=C:\Users\limseokjin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/01/24 14:07:59.000.659,C:\Project_childschool\childschool_Server\UMain_Server.dfm=C:\Users\limseokjin\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2016/01/24 14:08:03.000.568,C:\Project_childschool\childschool_Server\ServerContainerUnit1.pas=C:\Users\limseokjin\Documents\Embarcadero\Studio\Projects\ServerContainerUnit1.pas</Transaction>
+    <Transaction>2016/01/24 14:08:03.000.568,C:\Project_childschool\childschool_Server\ServerContainerUnit1.dfm=C:\Users\limseokjin\Documents\Embarcadero\Studio\Projects\ServerContainerUnit1.dfm</Transaction>
+    <Transaction>2016/01/24 14:08:22.000.619,C:\Project_childschool\childschool_Server\Project_Server.dproj=C:\Users\limseokjin\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
